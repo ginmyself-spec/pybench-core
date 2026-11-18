@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+build_temp/
+dist/
+logs/
+*.spec
+*.zip
+license.key
+.DS_Store
