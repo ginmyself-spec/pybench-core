@@ -82,4 +82,4 @@ This open-source repository provides the **CLI core engine**. If you need to del
 | **One-Click Standalone `.exe` / `.app` Packager (`build_exe.py`)** | ❌ | ✅ **Included (Zero Python Env Needed)** |
 | **Commercial Deployment License (Unlimited Internal/Client Tools)** | MIT Only | ✅ **Full Commercial License** |
 
-👉 **[Download the Free Starter Pack ($0) or Upgrade to PyBench-Pro ($99) Here](siaojiemyself.gumroad.com/l/pybench-pro)**
+👉 **[Download the Free Starter Pack ($0) or Upgrade to PyBench-Pro ($99) Here](https://siaojiemyself.gumroad.com/l/pybench-pro)**

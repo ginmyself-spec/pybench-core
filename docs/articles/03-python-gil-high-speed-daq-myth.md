@@ -39,5 +39,5 @@ data_queue.put_nowait([ts, seq_id, ch0, ch1, status])
 
 ## 3. 免費下載開箱即用的防掉包工程模板
 
-* 🎁 **【免費領取 Starter 核心版 ($0)】**：👉 **[點此免費下載 Starter 版](siaojiemyself.gumroad.com/l/pybench-pro)**
-* 🚀 **【直接升級 Commercial 商業旗艦版 ($99)】**：👉 **[查看完整商業版與實機畫面](siaojiemyself.gumroad.com/l/pybench-pro)**
+* 🎁 **【免費領取 Starter 核心版 ($0)】**：👉 **[點此免費下載 Starter 版](https://siaojiemyself.gumroad.com/l/pybench-pro)**
+* 🚀 **【直接升級 Commercial 商業旗艦版 ($99)】**：👉 **[查看完整商業版與實機畫面](https://siaojiemyself.gumroad.com/l/pybench-pro)**
